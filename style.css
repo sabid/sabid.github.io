@@ -711,6 +711,38 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 	position:relative;}
 
+.blog-link .icon.github {
+
+	background: url(images/github.png) center center no-repeat #434b51;
+
+	width: 43px;
+
+	height: 43px;
+
+	display: block;
+
+	z-index: 2;
+
+	position: relative;
+}
+
+.blog-link .icon.stackShare {
+
+	background: url(images/StackShare.jpg) center center no-repeat #fff;
+
+	width: 43px;
+
+	height: 43px;
+
+	display: block;
+
+	z-index: 2;
+
+	position: relative;
+}
+
+
+
 .blog-link .label{
 	display: block;
 	
@@ -1250,7 +1282,6 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 }
 .alert_message {margin-bottom:10px;}
-
 
 
 
